@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Programas Etec\PA\Prog01-HelloWorld\bin\Debug\Prog01-HelloWorld.exe.config
+C:\Users\user\Desktop\Programas Etec\PA\Prog01-HelloWorld\bin\Debug\Prog01-HelloWorld.exe
+C:\Users\user\Desktop\Programas Etec\PA\Prog01-HelloWorld\bin\Debug\Prog01-HelloWorld.pdb
+C:\Users\user\Desktop\Programas Etec\PA\Prog01-HelloWorld\obj\Debug\Prog01-HelloWorld.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Programas Etec\PA\Prog01-HelloWorld\obj\Debug\Prog01-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programas Etec\PA\Prog01-HelloWorld\obj\Debug\Prog01-HelloWorld.exe
+C:\Users\user\Desktop\Programas Etec\PA\Prog01-HelloWorld\obj\Debug\Prog01-HelloWorld.pdb
